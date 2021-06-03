@@ -1,0 +1,8 @@
+{
+  "generator-anubhav-basicfiori": {
+    "projectName": "05FioriLikeApp",
+    "newDir": true,
+    "projectNamespace": "dxc.app",
+    "projectNamespaceModule": "dxc/app"
+  }
+}
